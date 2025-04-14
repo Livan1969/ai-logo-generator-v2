@@ -1,1 +1,14 @@
-// package.json content placeholder
+{
+  "name": "ai-logo-generator",
+  "version": "1.0.0",
+  "description": "AI-powered logo generator",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^4.0.0"
+  }
+}
